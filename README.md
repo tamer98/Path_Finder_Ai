@@ -1,7 +1,7 @@
 
 # Smart Path Finder 
 
-The website offers a unique travel planning experience, allowing users to explore three daily routes in a chosen country. The home page features a menu with links to three pages, each representing a different travel route displayed on a map, utilizing the Leaflet library. Users can customize their itineraries by selecting the country and type of trip (on foot, by car, or by bike). Each route page includes an AI-generated image from DALL-E 2. Route selections and generated images are saved in the database for future reference.
+The website offers a unique travel planning experience, allowing users to explore three daily routes in a chosen country. The home page features a menu with links to three pages, each representing a different travel route displayed on a map, utilizing the Leaflet library. Users can customize their routes by selecting the country and type of trip (on foot, by car, or by bike). Each route page includes an AI-generated image from DALL-E 2. Route selections and generated images are saved in the database for future reference.
 
 
 ## Tech Stack
