@@ -27,7 +27,7 @@ The website offers a unique travel planning experience, allowing users to explor
 - Increasing or decreasing the focus on the map.
 - Animation of background colors.
 - Creation of images by AI for each route.
-- Database storage for selecting routes and generated images.
+- Database storage for generated routes and generated images.
 
 ## Demo
 
