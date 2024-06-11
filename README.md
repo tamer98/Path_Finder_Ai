@@ -21,7 +21,8 @@ The website offers a unique travel planning experience, allowing users to explor
 ## Features
 
 
-- The user selects the name of the country and the type of route.
+- Choosing the name of the country and the type of route.
+- Creating a map for each route.
 - Change the startpoint/endpoint of the the route by select the pin and drag it.
 - Increasing or decreasing the focus on the map.
 - Animation of background colors.
